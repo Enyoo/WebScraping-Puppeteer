@@ -1,0 +1,1690 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    
+	<!-- This site is optimized with the Yoast SEO Premium plugin v14.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>IBOV (Ibovespa) - Cotação de Hoje | InfoMoney</title>
+	<meta name="description" content="Acompanhe a cotação do Índice Ibovespa (IBOV BMFBOVESPA): gráficos, análises, notícias, fatos relevantes, composição da carteira e mais." />
+	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://www.infomoney.com.br/cotacoes/ibovespa/" />
+	<meta property="og:locale" content="pt_BR" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="IBOV (Índice Bovespa) | InfoMoney" />
+	<meta property="og:description" content="Acompanhe o IBOV (Índice Bovespa): gráficos, cotações, resultados, análises, notícias, fatos relevantes, composição da carteira e mais." />
+	<meta property="og:url" content="https://www.infomoney.com.br/cotacoes/ibovespa/" />
+	<meta property="og:site_name" content="InfoMoney" />
+	<meta property="article:publisher" content="https://www.facebook.com/InfoMoney/" />
+	<meta property="article:modified_time" content="2020-12-07T12:00:55+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="IBOV (Índice Bovespa) | InfoMoney" />
+	<meta name="twitter:description" content="Acompanhe o IBOV (Índice Bovespa): gráficos, cotações, resultados, análises, notícias, fatos relevantes, composição da carteira e mais." />
+	<meta name="twitter:creator" content="@infomoney" />
+	<meta name="twitter:site" content="@infomoney" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.infomoney.com.br/#organization","name":"InfoMoney","url":"https://www.infomoney.com.br/","sameAs":["https://www.facebook.com/InfoMoney/","https://www.instagram.com/infomoney/","https://www.linkedin.com/company/infomoney/","https://www.youtube.com/channel/UCxm0tptjIc76-i26EKQ9NpA","https://br.pinterest.com/infomoney/","https://twitter.com/infomoney"],"logo":{"@type":"ImageObject","@id":"https://www.infomoney.com.br/#logo","inLanguage":"pt-BR","url":"https://www.infomoney.com.br/wp-content/uploads/2019/11/IM-Favicon.png?fit=128%2C128&quality=70&strip=all","width":128,"height":128,"caption":"InfoMoney"},"image":{"@id":"https://www.infomoney.com.br/#logo"}},{"@type":"WebSite","@id":"https://www.infomoney.com.br/#website","url":"https://www.infomoney.com.br/","name":"InfoMoney","description":"Not\u00edcias, a\u00e7\u00f5es e muito mais sobre investimentos. Informa\u00e7\u00e3o que vale dinheiro.","publisher":{"@id":"https://www.infomoney.com.br/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://www.infomoney.com.br/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"pt-BR"},{"@type":"WebPage","@id":"https://www.infomoney.com.br/cotacoes/ibovespa/#webpage","url":"https://www.infomoney.com.br/cotacoes/ibovespa/","name":"IBOV (Ibovespa) - Cota\u00e7\u00e3o de Hoje | InfoMoney","isPartOf":{"@id":"https://www.infomoney.com.br/#website"},"datePublished":"2019-08-30T19:54:47+00:00","dateModified":"2020-12-07T12:00:55+00:00","description":"Acompanhe a cota\u00e7\u00e3o do \u00cdndice Ibovespa (IBOV BMFBOVESPA): gr\u00e1ficos, an\u00e1lises, not\u00edcias, fatos relevantes, composi\u00e7\u00e3o da carteira e mais.","inLanguage":"pt-BR","potentialAction":[{"@type":"ReadAction","target":["https://www.infomoney.com.br/cotacoes/ibovespa/"]}]}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//connect.facebook.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.xpi.com.br' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Feed para InfoMoney &raquo;" href="https://www.infomoney.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Feed de comentários para InfoMoney &raquo;" href="https://www.infomoney.com.br/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.infomoney.com.br\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0' href='https://www.infomoney.com.br/_static/??-eJyVzFEOgjAQRdENaQcwaeIHcRNuoJRHhLQz2Bk03T2yA/y/59J3vUZhAxvZCxlKM0+ShVEpqtIHPEqh5b2hVDcGC88wJKjLM7tfcKGTB0VCtO5vN4iYWgnrOalWE47skfvWt93NN97fd+rnVl8=' type='text/css' media='all' />
+<link rel='stylesheet' id='infomoney-fonts-montserrat-css'  href='https://fonts.googleapis.com/css2?family=Montserrat%3Awght%40100%3B400%3B500%3B600%3B700%3B800%3B900&#038;display=swap&#038;ver=5.6.1' media='all' />
+<link rel='stylesheet' id='all-css-2' href='https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-9.4/css/jetpack.css?m=1611697627g' type='text/css' media='all' />
+<script id='infomoney-script-js-extra'>
+var config = {"home_url":"https:\/\/www.infomoney.com.br","ajax_url":"https:\/\/www.infomoney.com.br\/wp-admin\/admin-ajax.php","user_logged":"","id_minha_conta":null,"login_nonce":"c6476413bd","login_url":"https:\/\/auth.infomoney.com.br\/authentication\/signin?response_type=code&client_id=aaeb000318befb9a2fe0f400&redirect_uri=http:\/\/www.infomoney.com.br\/pages\/authentication\/callback&origin=portal-header&redirect_to=https:\/\/www.infomoney.com.br\/","logoff_url":"https:\/\/auth.infomoney.com.br\/api\/auth\/signout?redirect_to=https:\/\/www.infomoney.com.br\/","api_infomoney":"https:\/\/api.infomoney.com.br","last_date":"2021-02-16 11:47:08","refresh_time_adversiting":"10"};
+</script>
+<script type='text/javascript' src='https://www.infomoney.com.br/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSqy4uT8vJLUvBL9kozUXKCWzLy0/Nz8vNRKkObcxMw8XYha+1xbQzNDI2MLSxML0ywAUB0ypQ=='></script>
+<script async src='https://connect.facebook.net/pt_BR/sdk.js?ver=1.7#xfbml=1&#038;version=v3.3' id='infomoney-facebook-comments-async-js'></script>
+<script async src='https://www.googletagservices.com/tag/js/gpt.js?ver=1.7' id='infomoney-googletagservices-async-js'></script>
+<script id='infomoney-ads-config-js-extra'>
+var adsConfigData = {"ads_formats":[{"advertising":"SUPER","is_sticky":"N","conditions":{"action":"hide","match_all":"0","rules":[{"major":"page","minor":"front","has_children":false},{"major":"taxonomy","minor":"marca_tax_10201","has_children":false},{"major":"taxonomy","minor":"marca_tax_10200","has_children":false},{"major":"taxonomy","minor":"marca_tax_53494","has_children":false},{"major":"tag","minor":"2101","has_children":false},{"major":"page","minor":"post_type-cotacoes","has_children":false},{"major":"page","minor":"post_type_archive-cotacoes","has_children":false}]}},{"advertising":"VERTICAL_AF","is_sticky":null,"conditions":{"action":"hide","match_all":"0","rules":[{"major":"taxonomy","minor":"marca_tax_10201","has_children":false},{"major":"page","minor":"post_type-cotacoes","has_children":false},{"major":"page","minor":"post_type_archive-cotacoes","has_children":false}]}},{"advertising":"RETANGULO_AF","is_sticky":null,"conditions":{"action":"show","match_all":"0","rules":[{"major":"page","minor":"post_type_archive-cotacoes","has_children":false},{"major":"page","minor":"post_type-cotacoes","has_children":false}]}},{"advertising":"VERTICAL_BF"}],"key_value_page":"cotacoes","key_value_category":"ibovespa","key_value_tags":"ibovespa"};
+</script>
+<script type='text/javascript' src='https://www.infomoney.com.br/_static/??/wp-content/themes/infomoney/js/libs/prebid4.15.0.js,/wp-content/themes/infomoney/js/ads-config-min.js?m=1612900115j'></script>
+<link rel="https://api.w.org/" href="https://www.infomoney.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://www.infomoney.com.br/wp-json/wp/v2/cotacoes/719905" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.infomoney.com.br/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.infomoney.com.br/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6.1" />
+<link rel="alternate" type="application/json+oembed" href="https://www.infomoney.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.infomoney.com.br%2Fcotacoes%2Fibovespa%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.infomoney.com.br/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.infomoney.com.br%2Fcotacoes%2Fibovespa%2F&#038;format=xml" />
+			<meta property="fb:pages" content="204590739576667" />
+			<style type='text/css'>img#wpstats{display:none}</style>        <link rel="preconnect" href="https://www.googletagmanager.com/">
+        <link rel="preconnect" href="https://www.googletagservices.com/">
+        <link rel="preconnect" href="https://connect.facebook.net/">
+    			<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<link rel="icon" href="https://www.infomoney.com.br/wp-content/uploads/2019/10/IM-Favicon.png?fit=32%2C32&#038;quality=70&#038;strip=all" sizes="32x32" />
+<link rel="icon" href="https://www.infomoney.com.br/wp-content/uploads/2019/10/IM-Favicon.png?fit=128%2C128&#038;quality=70&#038;strip=all" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.infomoney.com.br/wp-content/uploads/2019/10/IM-Favicon.png?fit=128%2C128&#038;quality=70&#038;strip=all" />
+<meta name="msapplication-TileImage" content="https://www.infomoney.com.br/wp-content/uploads/2019/10/IM-Favicon.png?fit=128%2C128&#038;quality=70&#038;strip=all" />
+			<style type="text/css" id="wp-custom-css">
+				body.postid-1561435 .advertising_super_home{
+	display: none !important;
+}
+
+/* hide banner in post: https://www.infomoney.com.br/economia/o-ano-de-ouro-das-fintechs-na-contramao-da-crise-setor-apresenta-crescimento-de-34-em-2020/ */			</style>
+		    <meta property="fb:admins" content="100001564845270,23205028,100001866890569,100001892083647,678214931" />
+    <meta property="fb:app_id" content="126135914251280" />
+    
+            <!-- Analytics Tag & LGPD Component -->
+        <script>window.hasLGPDComponent = true;window.dataLayer = window.dataLayer || [];</script>
+        <!-- Analytics Tag - Optimize Anti-Flicker-->
+        <style>.async-hide { opacity: 0 !important} </style>
+        <script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+        h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+        (a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+        })(window,document.documentElement,'async-hide','dataLayer',4000,
+        {'GTM-T8M3XX2':true});
+        // Analytics Tag - SalesForce Interaction Studio
+        (function(o,n,e){var l='link',s='script',c='createElement',i='insertBefore',f=o.getElementsByTagName(s)[0],p=f.parentNode,x=o[c](l),y=o[c](l),z=o[c](s);x.rel='preconnect';x.href=n;y.rel='preload';y.href=e;y.as=s;z.id='thxTag';z.src=e;p[i](x,f);p[i](y,f);p[i](z,f);})(document,'https://na5.thunderhead.com','https://na5.cdn.thunderhead.com/one/rt/js/one-tag.js?siteKey=ONE-4YRKC0KWPA-1291');
+        // Analytics Tag - Google Tag Manager
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-T8M3XX2');</script>
+        <!-- End Analytics Tag -->
+     
+</head>
+
+<body class="cotacoes-template-default single single-cotacoes postid-719905">
+    <div id="fb-root"></div>
+
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T8M3XX2" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    
+    <header class="container-header-small">
+        <div class="site-header">
+    <script type="text/javascript">
+        function getCookie(cname){
+            var name = cname + "=";
+            var decodedCookie = decodeURIComponent(document.cookie);
+            var ca = decodedCookie.split(';');
+            for(var i = 0; i <ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
+
+        if ((document.referrer.indexOf(".ig.com.br") > 0 || getCookie('_ref') == 'ig')) {
+            document.write('<scr' + 'ipt type=\"text/javascript\" src=\"//js.statig.com.br/barraiG/parceiros/barra_parceiros.js\">');
+            document.write('<\/script>');
+            document.cookie = '_ref' + "=" + 'ig' + "; path=/";
+        }
+    </script>
+
+    <div class="header-full">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col d-flex align-items-center justify-content-between">
+                    <div class="d-flex align-items-center">
+                        <div class="header-action menu-open">
+                            <i class="material-icons">menu</i>
+                        </div>
+                    </div>
+                    <a href="https://www.infomoney.com.br" class="logo-link">
+                        <img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/logo.png" class="logo" alt="Infomoney">
+                    </a>
+                    <div class="userPanel">
+                                                <div class='login-header user-logged'>
+                            <i class='material-icons'>account_circle</i>
+                            <p></p>
+                        </div>
+                        <ul class='login-options'>
+                            <li><a href='https://minhaconta.infomoney.com.br/'>Minha conta</a></li>
+                            <li><a href='https://www.infomoney.com.br/ferramentas/carteira-de-acompanhamento'>Minhas carteiras</a></li>
+                            <li><a id='logout_user' href='https://auth.infomoney.com.br/api/auth/signout?redirect_to=https://www.infomoney.com.br%2Flogout-infomoney%2F'>Sair</a></li>
+                        </ul>
+                        <div class='login-header not-logged'>
+                            <a href='https://auth.infomoney.com.br/authentication/signin?response_type=code&client_id=aaeb000318befb9a2fe0f400&redirect_uri=http://ww3.infomoney.com.br/pages/authentication/callback&origin=portal-header&redirect_to=https://www.infomoney.com.br%2Flogin-infomoney%2F'>
+                                <i class='material-icons'>account_circle</i>
+                                <p>Entrar</p>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <div class="header-action open-search">
+                            <i class="material-icons">search</i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row container-nav-topics">
+                <div class="col">
+                    <div class="nav-topics d-flex align-items-center justify-content-center">
+                        <i class="material-icons ml-n4 mr-2">trending_up</i>
+                        <a href="https://lp.infomoney.com.br/serie-janela-um-trilhao-202101-transmissao-ep1d?ifm=IM-INVL-HTP-REE-X-20210215-OP-X-X-X&#038;utm_source=infomoney&#038;utm_campaign=REE20210215" class=" " title="A Janela de R$ 1 trilhão">
+                                A Janela de R$ 1 trilhão                                </a><span>&#8226;</span><a href="https://t.me/infomoney_noticias" class=" " title="Cobertura no Telegram">
+                                Cobertura no Telegram                                </a><span>&#8226;</span><a href="https://www.infomoney.com.br/mercados/os-melhores-fundos-do-mercado-conheca-os-finalistas-do-ranking-infomoney-ibmec-2021/" class=" " title="Ranking Melhores Fundos 2021">
+                                Ranking Melhores Fundos 2021                                </a> 
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="header">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col d-flex align-items-center justify-content-between">
+                    <div class="d-flex align-items-center">
+                        <div class="header-action menu-open">
+                            <i class="material-icons">menu</i>
+                        </div>
+                        <a href="https://www.infomoney.com.br/" class="d-none d-lg-block logo-link">
+                            <img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/logo.svg" class="logo" alt="Infomoney">
+                        </a>
+                        <div class="nav-topics d-none d-lg-flex align-items-center">
+                            <i class="material-icons ml-3 mr-2">trending_up</i>
+                            <a href="https://lp.infomoney.com.br/serie-janela-um-trilhao-202101-transmissao-ep1d?ifm=IM-INVL-HTP-REE-X-20210215-OP-X-X-X&#038;utm_source=infomoney&#038;utm_campaign=REE20210215" class=" " title="A Janela de R$ 1 trilhão">
+                                    A Janela de R$ 1 trilhão                                    </a><span>&#8226;</span><a href="https://t.me/infomoney_noticias" class=" " title="Cobertura no Telegram">
+                                    Cobertura no Telegram                                    </a><span>&#8226;</span><a href="https://www.infomoney.com.br/mercados/os-melhores-fundos-do-mercado-conheca-os-finalistas-do-ranking-infomoney-ibmec-2021/" class=" " title="Ranking Melhores Fundos 2021">
+                                    Ranking Melhores Fundos 2021                                    </a>                        </div>
+                    </div>
+                    <a href="https://www.infomoney.com.br" class="d-lg-none ml-3 logo-link"><img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/logo.svg" class="logo" alt="Infomoney"></a>
+                    <div class="d-flex align-items-center">
+                        <div class="userPanel">
+                                                        <div class='login-header user-logged'>
+                                <i class='material-icons'>account_circle</i>
+                                <p></p>
+                            </div>
+                            <ul class='login-options'>
+                                <li><a href='https://minhaconta.infomoney.com.br/'>Minha conta</a></li>
+                                <li><a href='https://www.infomoney.com.br/ferramentas/carteira-de-acompanhamento'>Minhas carteiras</a></li>
+                                <li>   
+                                    <a id='logout_user' href='https://auth.infomoney.com.br/api/auth/signout?redirect_to=https://www.infomoney.com.br%2Flogout-infomoney%2F'>Sair</a>
+                                </li>
+                            </ul>
+                            <div class='login-header not-logged'>
+                                <a href='https://auth.infomoney.com.br/authentication/signin?response_type=code&client_id=aaeb000318befb9a2fe0f400&redirect_uri=http://ww3.infomoney.com.br/pages/authentication/callback&origin=portal-header&redirect_to=https://www.infomoney.com.br%2Flogin-infomoney%2F'>
+                                    <i class='material-icons'>account_circle</i>
+                                    <p>Entrar</p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="header-action open-search">
+                            <i class="material-icons">search</i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-search-header">
+        <div class="header-search">
+            <img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/logo.png" alt="Infomoney"/>
+            <button>
+                <i class="material-icons">close</i>
+            </button>
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-lg-8 m-auto">
+                    <form id="header-search" action="https://www.infomoney.com.br/busca" method="GET">
+                        <input type="text" name="q" placeholder="Busque no InfoMoney" />
+                        <button type="submit">
+                            <i class="material-icons">search</i>
+                        </button>
+                    </form>
+                </div>
+                <div class="col-12 col-lg-8 m-auto topics-search">
+                                                <div>
+                                <i class="material-icons">trending_up</i>
+                                <a href="https://lp.infomoney.com.br/serie-janela-um-trilhao-202101-transmissao-ep1d?ifm=IM-INVL-HTP-REE-X-20210215-OP-X-X-X&#038;utm_source=infomoney&#038;utm_campaign=REE20210215" title="A Janela de R$ 1 trilhão">A Janela de R$ 1 trilhão</a>
+                            </div>
+                                                        <div>
+                                <i class="material-icons">trending_up</i>
+                                <a href="https://t.me/infomoney_noticias" title="Cobertura no Telegram">Cobertura no Telegram</a>
+                            </div>
+                                                        <div>
+                                <i class="material-icons">trending_up</i>
+                                <a href="https://www.infomoney.com.br/mercados/os-melhores-fundos-do-mercado-conheca-os-finalistas-do-ranking-infomoney-ibmec-2021/" title="Ranking Melhores Fundos 2021">Ranking Melhores Fundos 2021</a>
+                            </div>
+                                            </div>
+            </div>
+        </div>
+    </div>
+
+</div>    </header>
+
+    <div id="menu-side">
+    <div class="menu-header">
+        <div id="menu-close">
+            <i class="material-icons">close</i>
+        </div>
+    </div>
+    <div class="userPanel">
+                <div class='login-header user-logged'>
+            <i class='material-icons'>account_circle</i>
+            <p></p>
+        </div>
+        <ul class='login-options'>
+            <li><a href='https://minhaconta.infomoney.com.br/'>Minha conta</a></li>
+            <li><a href='https://www.infomoney.com.br/ferramentas/carteira-de-acompanhamento'>Minhas carteiras</a></li>
+            <li><a id='logout_user' href='https://auth.infomoney.com.br/api/auth/signout?redirect_to=https://www.infomoney.com.br%2Flogout-infomoney%2F'>Sair</a></li>
+        </ul>
+        <div class='login-header not-logged'>
+            <a href='https://auth.infomoney.com.br/authentication/signin?response_type=code&client_id=aaeb000318befb9a2fe0f400&redirect_uri=http://ww3.infomoney.com.br/pages/authentication/callback&origin=portal-header&redirect_to=https://www.infomoney.com.br%2Flogin-infomoney%2F'>
+                <i class='material-icons'>account_circle</i>
+                <p>Entrar</p>
+            </a>
+        </div>
+    </div>
+    <div class="topics-menu">
+                        <a href="https://lp.infomoney.com.br/serie-janela-um-trilhao-202101-transmissao-ep1d?ifm=IM-INVL-HTP-REE-X-20210215-OP-X-X-X&#038;utm_source=infomoney&#038;utm_campaign=REE20210215" title="A Janela de R$ 1 trilhão">
+                    <i class="material-icons">trending_up</i>
+                    <p>A Janela de R$ 1 trilhão</p>
+                </a>
+                                <a href="https://t.me/infomoney_noticias" title="Cobertura no Telegram">
+                    <i class="material-icons">trending_up</i>
+                    <p>Cobertura no Telegram</p>
+                </a>
+                                <a href="https://www.infomoney.com.br/mercados/os-melhores-fundos-do-mercado-conheca-os-finalistas-do-ranking-infomoney-ibmec-2021/" title="Ranking Melhores Fundos 2021">
+                    <i class="material-icons">trending_up</i>
+                    <p>Ranking Melhores Fundos 2021</p>
+                </a>
+                    </div>
+    <ul id="menu-menu-principal" class="list-unstyled"><li id="menu-item-104" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-104"><a href="https://www.infomoney.com.br/ultimas-noticias">Notícias</a>
+<ul class="list-unstyled">
+	<li id="menu-item-1318874" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1318874"><a href="https://www.infomoney.com.br/ultimas-noticias/">Últimas</a></li>
+	<li id="menu-item-1477908" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1477908"><a href="https://t.me/infomoney_noticias">Telegram</a></li>
+	<li id="menu-item-1409967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1409967"><a href="https://www.infomoney.com.br/mercados/receba-a-nova-newsletter-do-infomoney/">Newsletter</a></li>
+	<li id="menu-item-1309053" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1309053"><a href="https://www.infomoney.com.br/mercados/">Mercados</a></li>
+	<li id="menu-item-1309056" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1309056"><a href="https://www.infomoney.com.br/onde-investir/">Onde Investir</a></li>
+	<li id="menu-item-1309057" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1309057"><a href="https://www.infomoney.com.br/minhas-financas/">Minhas Finanças</a></li>
+	<li id="menu-item-1309058" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1309058"><a href="https://www.infomoney.com.br/politica/">Política</a></li>
+	<li id="menu-item-1309054" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1309054"><a href="https://www.infomoney.com.br/negocios/">Negócios</a></li>
+	<li id="menu-item-1309055" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1309055"><a href="https://www.infomoney.com.br/consumo/">Consumo</a></li>
+	<li id="menu-item-1309059" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1309059"><a href="https://www.infomoney.com.br/carreira/">Carreira</a></li>
+	<li id="menu-item-1321806" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1321806"><a href="https://www.infomoney.com.br/economia/">Economia</a></li>
+	<li id="menu-item-1477915" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1477915"><a href="https://www.infomoney.com.br/perfil/">Personagens do Mercado</a></li>
+</ul>
+</li>
+<li id="menu-item-118" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-118"><a href="https://www.infomoney.com.br">Cotações</a>
+<ul class="list-unstyled">
+	<li id="menu-item-119" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-119"><a href="https://www.infomoney.com.br/cotacoes/ibovespa/" aria-current="page">Ibovespa</a></li>
+	<li id="menu-item-130" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-130"><a href="/ferramentas/altas-e-baixas">Altas e Baixas</a></li>
+	<li id="menu-item-121" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-121"><a href="/ferramentas/cambio">Dólar e Moedas</a></li>
+	<li id="menu-item-120" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-120"><a href="/ferramentas/criptomoedas">Criptomoedas</a></li>
+	<li id="menu-item-123" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-123"><a href="/ferramentas/cotacoes-opcoes-de-acoes/">Opções de Ações</a></li>
+	<li id="menu-item-127" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-127"><a href="/ferramentas/juros-futuros-di">Juros Futuros</a></li>
+	<li id="menu-item-128" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-128"><a href="/ferramentas/mini-contratos/">Mini Contratos</a></li>
+	<li id="menu-item-1428105" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1428105"><a href="https://www.infomoney.com.br/ferramentas/inflacao/">Indicadores de Inflação</a></li>
+</ul>
+</li>
+<li id="menu-item-129" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-129"><a href="https://www.infomoney.com.br">Ferramentas</a>
+<ul class="list-unstyled">
+	<li id="menu-item-1428103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1428103"><a href="https://www.infomoney.com.br/ferramentas/comparador-de-fundos/">Comparador de Fundos</a></li>
+	<li id="menu-item-1492849" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1492849"><a href="https://www.infomoney.com.br/ferramentas/comparador-de-fiis/">Comparador de FIIs</a></li>
+	<li id="menu-item-1306407" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1306407"><a href="/ferramentas/carteira-de-acompanhamento">Carteira de Acompanhamento</a></li>
+	<li id="menu-item-1428102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1428102"><a href="https://www.infomoney.com.br/ferramentas/fatos-relevantes/">Fatos Relevantes</a></li>
+	<li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-132"><a href="/cotacoes/empresas-b3">Empresas B3</a></li>
+	<li id="menu-item-4175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4175"><a href="https://www.infomoney.com.br/ferramentas/comparador-renda-fixa/">Comparador de Renda Fixa</a></li>
+	<li id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133"><a href="https://www.infomoney.com.br/ferramentas/calendario-economico/">Calendário Econômico</a></li>
+</ul>
+</li>
+<li id="menu-item-1331944" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1331944"><a href="https://www.infomoney.com.br/onde-investir/">Guias de Investimentos</a>
+<ul class="list-unstyled">
+	<li id="menu-item-1331945" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331945"><a href="https://www.infomoney.com.br/educacao/guias/guias-de-acoes/">Ações</a></li>
+	<li id="menu-item-1331946" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331946"><a href="https://www.infomoney.com.br/guias/tesouro-direto/">Tesouro Direto</a></li>
+	<li id="menu-item-1331954" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331954"><a href="https://www.infomoney.com.br/guias/proventos/">Proventos e Dividendos</a></li>
+	<li id="menu-item-1372041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1372041"><a href="https://www.infomoney.com.br/guias/debentures/">Debêntures</a></li>
+	<li id="menu-item-1566329" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566329"><a href="https://www.infomoney.com.br/guias/adrs-american-depositary-receipt/">ADRs</a></li>
+	<li id="menu-item-1475363" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1475363"><a href="https://www.infomoney.com.br/guias/bdr-brazilian-depositary-receipts/">BDRs</a></li>
+	<li id="menu-item-1331955" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331955"><a href="https://www.infomoney.com.br/mercados/o-que-sao-etfs/">ETFs</a></li>
+	<li id="menu-item-1346183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1346183"><a href="https://www.infomoney.com.br/vamosinvestir/aplicacoes/investir-em-renda-fixa/">Renda Fixa</a></li>
+	<li id="menu-item-1331948" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331948"><a href="https://www.infomoney.com.br/guias/fundos-de-investimento/">Fundos de Investimento</a></li>
+	<li id="menu-item-1331952" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331952"><a href="https://www.infomoney.com.br/guias/fundos-de-acoes/">Fundos de Ações</a></li>
+	<li id="menu-item-1359919" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1359919"><a href="https://www.infomoney.com.br/guias/fundos-multimercados/">Fundos Multimercados</a></li>
+	<li id="menu-item-1331949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331949"><a href="https://www.infomoney.com.br/guias/fundos-renda-fixa/">Fundos de Renda Fixa</a></li>
+	<li id="menu-item-1331950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331950"><a href="https://www.infomoney.com.br/guias/fundos-cambiais/">Fundos Cambiais</a></li>
+	<li id="menu-item-1331957" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331957"><a href="https://www.infomoney.com.br/guias/fundos-imobiliarios/">Fundos Imobiliários</a></li>
+	<li id="menu-item-1432549" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1432549"><a href="https://www.infomoney.com.br/guias/fundos-di/">Fundos DI</a></li>
+	<li id="menu-item-1331956" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331956"><a href="https://www.infomoney.com.br/guias/ipo/">IPOs</a></li>
+	<li id="menu-item-1487489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1487489"><a href="https://www.infomoney.com.br/guias/mercado-de-opcoes/">Opções</a></li>
+	<li id="menu-item-1372037" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1372037"><a href="https://www.infomoney.com.br/guias/poupanca/">Poupança</a></li>
+	<li id="menu-item-1348970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1348970"><a href="https://www.infomoney.com.br/guias/planos-de-previdencia/">Planos de Previdência</a></li>
+	<li id="menu-item-1480330" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1480330"><a href="https://www.infomoney.com.br/guias/criptomoedas/">Criptomoedas</a></li>
+	<li id="menu-item-1331947" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331947"><a href="https://www.infomoney.com.br/guias/cdb/">CDBs</a></li>
+	<li id="menu-item-1489264" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1489264"><a href="https://www.infomoney.com.br/guias/taxa-referencial-tr/">Taxa Referencial</a></li>
+</ul>
+</li>
+<li id="menu-item-1321907" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1321907"><a href="https://www.infomoney.com.br/colunistas/">Colunistas</a>
+<ul class="list-unstyled">
+	<li id="menu-item-1323113" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1323113"><a href="https://www.infomoney.com.br/blog/alexandre-schwartsman/">Alexandre Schwartsman</a></li>
+	<li id="menu-item-1323227" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1323227"><a href="https://www.infomoney.com.br/blog/paulo-tafner/">Paulo Tafner</a></li>
+	<li id="menu-item-1469565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1469565"><a href="https://www.infomoney.com.br/colunistas/pedro-jobim/">Pedro Jobim</a></li>
+	<li id="menu-item-1588411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1588411"><a href="https://www.infomoney.com.br/colunistas/marina-cancado/">Marina Cançado</a></li>
+	<li id="menu-item-1323230" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1323230"><a href="https://www.infomoney.com.br/blog/pedro-menezes/">Pedro Menezes</a></li>
+	<li id="menu-item-1374552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1374552"><a href="https://www.infomoney.com.br/colunistas/guilherme-affonso-ferreira/">Guilherme Affonso Ferreira</a></li>
+	<li id="menu-item-1373348" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1373348"><a href="https://www.infomoney.com.br/colunistas/blog-do-cunha/">Gustavo Cunha</a></li>
+	<li id="menu-item-1441682" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1441682"><a href="https://www.infomoney.com.br/colunistas/rodrigo-moreira/">Rodrigo Moreira</a></li>
+	<li id="menu-item-1482325" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1482325"><a href="https://www.infomoney.com.br/autor/aod-cunha/">Aod Cunha</a></li>
+	<li id="menu-item-1323232" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1323232"><a href="https://www.infomoney.com.br/blog/cesar-grafietti/">Cesar Grafietti</a></li>
+	<li id="menu-item-1373344" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1373344"><a href="https://www.infomoney.com.br/colunistas/investimentos-internacionais/">Marcelo López</a></li>
+	<li id="menu-item-1441684" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1441684"><a href="https://www.infomoney.com.br/colunistas/felippe-hermes/">Felippe Hermes</a></li>
+	<li id="menu-item-1323231" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1323231"><a href="https://www.infomoney.com.br/blog/o-mundo-sobre-muitas-rodas/">Raphael Galante</a></li>
+	<li id="menu-item-1323234" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1323234"><a href="https://www.infomoney.com.br/blog/ivo-chermont/">Ivo Chermont</a></li>
+	<li id="menu-item-1377464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1377464"><a href="https://www.infomoney.com.br/colunistas/alem-do-dinheiro/">Além do dinheiro</a></li>
+	<li id="menu-item-1373345" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1373345"><a href="https://www.infomoney.com.br/colunistas/um-brasil/">Um Brasil</a></li>
+	<li id="menu-item-1373343" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1373343"><a href="https://www.infomoney.com.br/colunistas/ifl-instituto-de-formacao-de-lideres/">IFL</a></li>
+	<li id="menu-item-1326953" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1326953"><a href="https://www.infomoney.com.br/colunistas/eua-morar-e-investir/">EUA: Morar e Investir</a></li>
+	<li id="menu-item-1475036" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1475036"><a href="https://www.infomoney.com.br/colunistas/spiti-analise/">Spiti Análise</a></li>
+</ul>
+</li>
+<li id="menu-item-1334706" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-1334706"><a href="https://www.infomoney.com.br/">Redes Sociais</a>
+<ul class="list-unstyled">
+	<li id="menu-item-1324161" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1324161"><a href="https://www.instagram.com/infomoney/">Instagram</a></li>
+	<li id="menu-item-1364885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1364885"><a href="https://www.infomoney.com.br/mercados/telegram-do-infomoney-tera-servico-gratuito-de-cobertura-em-tempo-real-a-partir-de-outubro/">Telegram</a></li>
+	<li id="menu-item-1431169" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1431169"><a href="https://twitter.com/infomoney?lang=en">Twitter</a></li>
+	<li id="menu-item-1324162" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1324162"><a href="https://www.linkedin.com/company/infomoney/">Linkedin</a></li>
+	<li id="menu-item-1409964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1409964"><a href="https://www.facebook.com/InfoMoney/">Facebook</a></li>
+</ul>
+</li>
+<li id="menu-item-1495256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1495256"><a href="https://lp.infomoney.com.br/ebooks-gratuitos-investimentos">Ebooks Gratuitos</a></li>
+<li id="menu-item-1502759" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1502759"><a href="https://www.infomoney.com.br/minhas-financas/calculadora-da-aposentadoria-quanto-guardar-hoje-para-ter-renda-de-r-10-mil-apos-os-65-anos/">Planilhas Gratuitas</a></li>
+<li id="menu-item-1489214" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1489214"><a href="https://www.infomoney.com.br/podcasts/">Podcasts</a></li>
+<li id="menu-item-1489215" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1489215"><a href="https://www.youtube.com/channel/UCxm0tptjIc76-i26EKQ9NpA">Vídeos</a></li>
+<li id="menu-item-1441686" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1441686"><a href="https://www.infomoney.com.br/stock-pickers/">Stock Pickers</a></li>
+<li id="menu-item-1476225" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1476225"><a href="https://xpeedschool.com.br/">Xpeed</a></li>
+<li id="menu-item-1334711" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1334711"><a href="https://www.infomoney.com.br/patrocinados/">Especiais</a>
+<ul class="list-unstyled">
+	<li id="menu-item-1334712" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1334712"><a href="https://www.infomoney.com.br/patrocinados/getnet/">GetNet</a></li>
+	<li id="menu-item-1334713" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1334713"><a href="https://www.infomoney.com.br/patrocinados/maxmilhas/">Max Milhas</a></li>
+	<li id="menu-item-1334714" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1334714"><a href="https://www.infomoney.com.br/patrocinados/etf/">ETFs</a></li>
+	<li id="menu-item-1334715" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1334715"><a href="https://www.infomoney.com.br/patrocinados/longevidade-financeira/">Longevidade</a></li>
+	<li id="menu-item-1334716" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1334716"><a href="https://lp.infomoney.com.br/emprestimo-imovel-garantia">Empréstimo com imóvel em garantia</a></li>
+	<li id="menu-item-1334717" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1334717"><a href="https://lp.infomoney.com.br/panorama-novo-mercado-imobiliario">Imóveis</a></li>
+</ul>
+</li>
+<li id="menu-item-1347315" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1347315"><a href="https://conteudos.xpi.com.br/?utm_source=infomoney&#038;utm_medium=menu&#038;utm_campaign=xp%20conteudos">Expert</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-103"><a href="https://cursos.infomoney.com.br/research-relatorios">Relatórios</a></li>
+<li id="menu-item-1531207" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1531207"><a href="https://www.infomoney.com.br/quem-somos/">Quem Somos</a></li>
+</ul></div>
+        <div class="after-header">
+            <div class="ticker-container">
+            <div class="ticker-carroussel">
+                <div id="ticker-content">
+                </div>
+            </div>
+            <div class="ticker-open-account">
+                <a href="https://cadastro.xpi.com.br/?utm_source=infomoney&utm_campaign=abra-sua-conta&utm_medium=ticker140x40-formulario&utm_content=ros&utm_term=variacao2&rh=0#" target="_blank"><img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/selo-xp.gif" alt="XP Inc."/></a>
+            </div>
+        </div>
+            </div>
+        <div class="fill-lightgray border-b">
+        <div class="container pt-3 pt-lg-5">
+            <div class="row">
+                <div class="col-12 col-lg-8 order-2 order-lg-1">
+                    <div class="quotes-header-info">
+                                                <div class="center">
+                            <h1>Ibovespa (IBOV)</h1>
+                                                            <button class="btn btn-outline-primary btn-sm btn-add-wallet ml-3" data-toggle="modal" data-target="#modalWallet">
+                                    <span>Adicionar à carteira</span>
+                                </button>
+                                                    </div>
+                        <div class="sub-header">
+                            <p class="stock-name">IBOVESPA</p>                                <div class="date-update">
+                                    <i class="material-icons">error_outline</i>
+                                    <span>
+                                        Atualizado
+                                        12/02/21                                         às
+                                        18h19. Delay 15 min
+                                    </span>
+                                </div>
+                                                            <div class="list-share d-flex d-lg-none">
+                                <a href="https://twitter.com/intent/tweet?url=https://www.infomoney.com.br/cotacoes/ibovespa/&#038;text=Ibovespa%20(IBOV)&#038;via=InfoMoney" class="twitter"><i class="fab fa-twitter"></i></a>
+                                <a href="https://telegram.me/share/url?url=https://www.infomoney.com.br/cotacoes/ibovespa/&#038;text=Ibovespa%20(IBOV)" class="telegram"><i class="fab fa-telegram-plane"></i></a>
+                                                            </div>
+                        </div>
+                        <div class="line-info">
+
+                            <i class="material-icons positive">arrow_upward</i>
+                                                            <div class="value">
+                                    <p>119428</p>
+                                    <label>Pontos</label>                                </div>
+                                                                <div class="percentage">
+                                    <p class="positive">
+                                        +0.10%                                    </p>
+                                    <label>Variação (dia)</label>
+                                </div>    
+                                                                    <div class="minimo">
+                                        <p>118162</p>
+                                        <label>Mín (Dia)</label>
+                                    </div>
+                                                                        <div class="maximo">
+                                        <p>119763</p>
+                                        <label>Máx (Dia)</label>
+                                    </div>
+                                                                        <div class="volume">
+                                        <p>29.584.496.192,96</p>
+                                        <label>Volume</label>
+                                    </div>
+                                                            </div>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-4 order-1 order-lg-2 quotes-search">
+                    <i class="material-icons">search</i>
+                    <select id="cotacoes-search"></select>
+                </div>
+            </div>
+
+
+            <div class="quotes-options">
+                                            <div>
+                            <i class="material-icons rotate">toc</i>
+                            <span>Resumo</span>
+                        </div>
+                                                <a href="https://www.infomoney.com.br/cotacoes/ibovespa/grafico">
+                            <i class="material-icons">show_chart</i>    
+                            <span>Gráfico</span>
+                        </a>
+                                                <a href="https://www.infomoney.com.br/cotacoes/ibovespa/historico">
+                            <i class="material-icons">date_range</i>
+                            <span>Histórico</span>
+                        </a>
+                                                <a class="call-to-action clear" target="_blank" href="https://cadastro.clear.com.br/?utm_source=infomoney&#038;utm_campaign=cotacoes&#038;utm_medium=botao&#038;utm_content=IBOVESPA&#038;utm_term=719905">
+                            <p>Invista com taxa Zero</p>
+                            <span></span>
+                            <img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/logo-clear.png" />
+                        </a>
+                                        </div>
+        </div>
+    </div>
+
+    <!-- Modal Wallet -->
+    <div class="modal fade" id="modalWallet" data-backdrop="static" data-keyboard="false" tabindex="-1" aria-labelledby="modalWalletLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="modalWalletLabel">Adicionar à carteira</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span class="material-icons md-18">close</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <p>Escolha uma ou mais carteiras para adicionar o ativo. Se preferir, crie uma nova carteira.</p>
+            <div id="wallets">
+                <div class="alert alert-dismissible error-wallet" role="alert">
+                  <span class="message">Erro ao adicionar o ativo, tente novamente.</span>
+                  <button type="button" class="close" aria-label="Close">
+                    <span class="material-icons md-18">close</span>
+                  </button>
+                </div>
+                <img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/loading.gif" id="img_load_wallet">
+                
+                <div class="option-wallet bg-light pl-3">
+                    <input value="default" type="checkbox" name="default" id="default" data-is-wallet="true">
+                    <label for="default" class="ml-3 mb-0 pt-2 pb-2 w-100">Carteira padrão</label>
+                </div>
+                <div class="user-wallets"></div>
+                <div class="option-wallet bg-light pl-3" id="btn-new-wallet">
+                    <a href="#">Nova carteira</a>
+                </div>
+                <div class="new-wallet-option input-group" id="new-wallet-option">
+                    <input type="text" class="form-control" name="new-wallet" id="new-wallet" placeholder="Insira o nome da nova carteira" aria-label="Insira o nome da nova carteira" aria-describedby="btn-create">
+                    <div class="input-group-append">
+                        <button type="button" class="btn btn-primary" id="btn-create" disabled>Criar carteira</button>
+                        
+                    </div>
+                </div>
+                <a href="#" class="cancel-create small ml-1">Cancelar</a>
+            </div>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-cancel btn-secondary" id="btn-cancel" data-dismiss="modal">Cancelar</button>
+            <button type="button" class="btn btn-save btn-primary" id="btn-save-wallet" disabled>Salvar</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Alert Message -->
+    <div class="alert alert-dismissible fixed-bottom alert-wallet" role="alert">
+      Ativo adiconado. <a href="https://www.infomoney.com.br/ferramentas/carteira-de-acompanhamento/">Veja suas carteiras.</a>
+      <button type="button" class="close" aria-label="Close">
+        <span class="material-icons">close</span>
+      </button>
+    </div>
+    <div class="container mt-4 mt-lg-5 quotes-single">
+    <div class="row">
+        <div class="col-md-8">
+            <div id="header-quotes">
+                <!-- Header Quotes--> 
+                <div class="tables">
+                        <table>
+                            <tr>
+                                <td>Fechamento anterior</td><td> 119299</td>
+                            </tr><tr>
+                                <td>Abertura</td><td> 119299</td>
+                            </tr><tr>
+                                <td>Negócios</td><td> 3333905</td>
+                            </tr><tr>
+                                <td>Volume</td><td>R$ 29,58 B</td>
+                            </tr>                        </table>
+                        <table>
+                            <tr>
+                                <td>Mín — Máx (Dia)</td>
+                                <td>
+                                    118162 - 
+                                    119763                                </td>
+                            </tr><tr>
+                                <td>Variação (Dia)</td>
+                                <td class="positive">
+                                    +0.10%                                </td>
+                            </tr><tr>
+                                <td>Variação (Mês)</td>
+                                <td class="positive">
+                                    +3.79%                                </td>
+                            </tr><tr>
+                                <td>Variação (2021)</td>
+                                <td class="positive">
+                                    +0.34%                                </td>
+                            </tr><tr>
+                                <td>Variação (52 semanas)</td>
+                                <td class="positive">
+                                    +3.25%                                </td>
+                            </tr>                        </table>         
+                    </div>
+
+                                            <a class="call-to-action mobile clear" target="_blank" href="https://cadastro.clear.com.br/?utm_source=infomoney&#038;utm_campaign=cotacoes&#038;utm_medium=botao&#038;utm_content=&#038;utm_term=">
+                            <p>Invista com taxa Zero</p>
+                            <span></span>
+                            <img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/logo-clear.png" />
+                        </a>
+                                            
+                    <div class="about mt-5">
+                                                <h3 class="code-ativo">Sigla: <strong>IBOVESPA</strong></h3>
+                                                        <h3>Tipo: <strong>Índice De Bolsa</strong></h3>
+                            
+                       <div class="tables">
+                        <table>
+                                                    </table>
+                        <table>
+                                                    </table>
+                        <div class="description">
+                            <p>O Ibovespa é o principal indicador de desempenho das <a href="/cotacoes/empresas-b3/"><strong>ações negociadas na B3</strong></a>. Ele reúne as empresas mais importantes do mercado de capitais brasileiro. Criado em 1968, consolidou-se como referência para investidores ao redor do mundo.</p><p>Reavaliado a cada quatro meses, o índice é resultado de uma carteira teórica de ativos. É composto pelas ações e units (misto de ações ordinárias e preferenciais) de companhias listadas na B3 que atendem a determinados critérios. Os papéis que compõem o Ibovespa correspondem a cerca de 80% do número de negócios e do volume financeiro do mercado brasileiro de capitais.</p><p>O índice é calculado em tempo real. Considera-se instantaneamente os preços de todos os negócios efetuados no mercado à vista com as ações componentes de sua carteira (lote padrão).</p><p>Entre as ações e units listadas, não há ativos de companhias em recuperação judicial ou extrajudicial. Também são excluídas ações em regime especial de administração temporária, intervenção ou que sejam negociados em qualquer outra situação especial de listagem.</p>                        </div>
+                    </div>
+ 
+                        
+                                            </div>
+            </div>
+            <div id="index-table">
+                  <!-- Index table if exist -->
+
+                                                <div class="data-table-full">
+                                <h2 class="section-title mt-5">Altas e baixas IBOVESPA</h2>
+                                <div class="header-high-low">
+                                    <button id="high" class="active">Altas</button>
+                                    <button id="low">Baixas</button>
+                                </div>
+                                <table id="high" class="default-table active">
+                                    <thead>
+                                    <tr>
+                                        <th>Ativo</th>
+                                        <th>Último (R$)</th>
+                                        <th>Var. Dia (%)</th>
+                                        <th>Val. Min (R$)</th>
+                                        <th>Val. Máx (R$)</th>
+                                        <th>Data</th>
+                                    </tr>
+                                    </thead>
+                                                                            <tr>
+                                            <td><a href="https://www.infomoney.com.br/BBDC3">BBDC3</a></td>
+                                            <td>22,35</td>
+                                            <td class="positive">0.22</td>
+                                            <td>22,09</td>
+                                            <td>22,49</td>
+                                            <td>17:54 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BBDC4">BBDC4</a></td>
+                                            <td>25,2</td>
+                                            <td class="positive">0</td>
+                                            <td>24,96</td>
+                                            <td>25,53</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BEEF3">BEEF3</a></td>
+                                            <td>9,51</td>
+                                            <td class="positive">0.74</td>
+                                            <td>9,36</td>
+                                            <td>9,66</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BRFS3">BRFS3</a></td>
+                                            <td>22,98</td>
+                                            <td class="positive">1.39</td>
+                                            <td>22,78</td>
+                                            <td>23,32</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BRKM5">BRKM5</a></td>
+                                            <td>29,33</td>
+                                            <td class="positive">3.03</td>
+                                            <td>28,78</td>
+                                            <td>30,37</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BRML3">BRML3</a></td>
+                                            <td>9,44</td>
+                                            <td class="positive">0.21</td>
+                                            <td>9,28</td>
+                                            <td>9,51</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/CCRO3">CCRO3</a></td>
+                                            <td>12,32</td>
+                                            <td class="positive">1.14</td>
+                                            <td>12,15</td>
+                                            <td>12,53</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/CSAN3">CSAN3</a></td>
+                                            <td>86,41</td>
+                                            <td class="positive">1.37</td>
+                                            <td>84,72</td>
+                                            <td>88,2</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/CVCB3">CVCB3</a></td>
+                                            <td>18,85</td>
+                                            <td class="positive">5.57</td>
+                                            <td>18,64</td>
+                                            <td>20,04</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/CYRE3">CYRE3</a></td>
+                                            <td>28,03</td>
+                                            <td class="positive">1.14</td>
+                                            <td>27,76</td>
+                                            <td>28,45</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/ECOR3">ECOR3</a></td>
+                                            <td>12,37</td>
+                                            <td class="positive">1.05</td>
+                                            <td>12,18</td>
+                                            <td>12,53</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/EGIE3">EGIE3</a></td>
+                                            <td>45,82</td>
+                                            <td class="positive">0.17</td>
+                                            <td>45,55</td>
+                                            <td>46,49</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/ELET3">ELET3</a></td>
+                                            <td>29,68</td>
+                                            <td class="positive">1.21</td>
+                                            <td>29,51</td>
+                                            <td>30,15</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/ELET6">ELET6</a></td>
+                                            <td>29,97</td>
+                                            <td class="positive">0.8</td>
+                                            <td>29,77</td>
+                                            <td>30,43</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/EMBR3">EMBR3</a></td>
+                                            <td>10,02</td>
+                                            <td class="positive">0.6</td>
+                                            <td>9,89</td>
+                                            <td>10,25</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/ENGI11">ENGI11</a></td>
+                                            <td>51,11</td>
+                                            <td class="positive">0.06</td>
+                                            <td>50,54</td>
+                                            <td>51,47</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/EQTL3">EQTL3</a></td>
+                                            <td>23,39</td>
+                                            <td class="positive">0.73</td>
+                                            <td>23,14</td>
+                                            <td>23,62</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/FLRY3">FLRY3</a></td>
+                                            <td>28,09</td>
+                                            <td class="positive">0.78</td>
+                                            <td>27,91</td>
+                                            <td>28,4</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/GGBR4">GGBR4</a></td>
+                                            <td>24,11</td>
+                                            <td class="positive">0</td>
+                                            <td>23,87</td>
+                                            <td>24,35</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/GOLL4">GOLL4</a></td>
+                                            <td>24,11</td>
+                                            <td class="positive">0.12</td>
+                                            <td>23,54</td>
+                                            <td>24,35</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/HGTX3">HGTX3</a></td>
+                                            <td>17,09</td>
+                                            <td class="positive">0.23</td>
+                                            <td>16,89</td>
+                                            <td>17,2</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/IGTA3">IGTA3</a></td>
+                                            <td>34,47</td>
+                                            <td class="positive">1.51</td>
+                                            <td>34</td>
+                                            <td>35</td>
+                                            <td>18:12 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/IRBR3">IRBR3</a></td>
+                                            <td>6,55</td>
+                                            <td class="positive">1.37</td>
+                                            <td>6,49</td>
+                                            <td>6,7</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/ITUB4">ITUB4</a></td>
+                                            <td>27,69</td>
+                                            <td class="positive">0.25</td>
+                                            <td>27,4</td>
+                                            <td>28,1</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/JBSS3">JBSS3</a></td>
+                                            <td>26,48</td>
+                                            <td class="positive">1.32</td>
+                                            <td>26,03</td>
+                                            <td>27</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/LAME4">LAME4</a></td>
+                                            <td>24,3</td>
+                                            <td class="positive">1.28</td>
+                                            <td>24,18</td>
+                                            <td>24,74</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/LREN3">LREN3</a></td>
+                                            <td>39,39</td>
+                                            <td class="positive">1.29</td>
+                                            <td>38,81</td>
+                                            <td>39,99</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/MGLU3">MGLU3</a></td>
+                                            <td>25,65</td>
+                                            <td class="positive">1.01</td>
+                                            <td>25,35</td>
+                                            <td>25,98</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/MULT3">MULT3</a></td>
+                                            <td>21,35</td>
+                                            <td class="positive">0.19</td>
+                                            <td>20,8</td>
+                                            <td>21,41</td>
+                                            <td>18:12 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/PCAR3">PCAR3</a></td>
+                                            <td>87,53</td>
+                                            <td class="positive">1.62</td>
+                                            <td>87,15</td>
+                                            <td>89</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/PETR3">PETR3</a></td>
+                                            <td>28,31</td>
+                                            <td class="positive">0.67</td>
+                                            <td>27,88</td>
+                                            <td>28,59</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/PETR4">PETR4</a></td>
+                                            <td>28,08</td>
+                                            <td class="positive">1.28</td>
+                                            <td>27,61</td>
+                                            <td>28,49</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/PRIO3">PRIO3</a></td>
+                                            <td>77,33</td>
+                                            <td class="positive">2.92</td>
+                                            <td>75,58</td>
+                                            <td>79,98</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/RAIL3">RAIL3</a></td>
+                                            <td>19,8</td>
+                                            <td class="positive">1.87</td>
+                                            <td>18,82</td>
+                                            <td>20,27</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/SANB11">SANB11</a></td>
+                                            <td>40,6</td>
+                                            <td class="positive">0.42</td>
+                                            <td>39,9</td>
+                                            <td>40,99</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/SUZB3">SUZB3</a></td>
+                                            <td>70,66</td>
+                                            <td class="positive">0.08</td>
+                                            <td>70,01</td>
+                                            <td>71,5</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/TAEE11">TAEE11</a></td>
+                                            <td>32,51</td>
+                                            <td class="positive">0.25</td>
+                                            <td>32,38</td>
+                                            <td>32,6</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/TOTS3">TOTS3</a></td>
+                                            <td>33,85</td>
+                                            <td class="positive">2.33</td>
+                                            <td>33,69</td>
+                                            <td>34,94</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/USIM5">USIM5</a></td>
+                                            <td>14,14</td>
+                                            <td class="positive">0.35</td>
+                                            <td>14,13</td>
+                                            <td>14,85</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/VALE3">VALE3</a></td>
+                                            <td>93,11</td>
+                                            <td class="positive">0.84</td>
+                                            <td>92,2</td>
+                                            <td>94,14</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                        </table>
+                                <table id="low" class="default-table">
+                                    <thead>
+                                    <tr>
+                                        <th>Ativo</th>
+                                        <th>Último (R$)</th>
+                                        <th>Var. Dia (%)</th>
+                                        <th>Val. Min (R$)</th>
+                                        <th>Val. Máx (R$)</th>
+                                        <th>Data</th>
+                                    </tr>
+                                    </thead>
+                                                                            <tr>
+                                            <td><a href="https://www.infomoney.com.br/ABEV3">ABEV3</a></td>
+                                            <td>14,95</td>
+                                            <td class="negative">-1.07</td>
+                                            <td>14,75</td>
+                                            <td>14,97</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/AZUL4">AZUL4</a></td>
+                                            <td>43,04</td>
+                                            <td class="negative">-0.42</td>
+                                            <td>41,8</td>
+                                            <td>43,18</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/B3SA3">B3SA3</a></td>
+                                            <td>60,32</td>
+                                            <td class="negative">-0.76</td>
+                                            <td>59,1</td>
+                                            <td>60,28</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BBAS3">BBAS3</a></td>
+                                            <td>33,94</td>
+                                            <td class="negative">-0.56</td>
+                                            <td>33,2</td>
+                                            <td>34,14</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BBSE3">BBSE3</a></td>
+                                            <td>28,16</td>
+                                            <td class="negative">-0.53</td>
+                                            <td>27,74</td>
+                                            <td>28,05</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BPAC11">BPAC11</a></td>
+                                            <td>111,59</td>
+                                            <td class="negative">-2.32</td>
+                                            <td>108,19</td>
+                                            <td>110,97</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BRAP4">BRAP4</a></td>
+                                            <td>62,79</td>
+                                            <td class="negative">-0.3</td>
+                                            <td>61,81</td>
+                                            <td>62,87</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BRDT3">BRDT3</a></td>
+                                            <td>22,65</td>
+                                            <td class="negative">-1.77</td>
+                                            <td>21,88</td>
+                                            <td>22,65</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/BTOW3">BTOW3</a></td>
+                                            <td>85,6</td>
+                                            <td class="negative">-0.22</td>
+                                            <td>84,12</td>
+                                            <td>86,51</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/CIEL3">CIEL3</a></td>
+                                            <td>3,92</td>
+                                            <td class="negative">-6.63</td>
+                                            <td>3,65</td>
+                                            <td>3,9</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/CMIG4">CMIG4</a></td>
+                                            <td>13,74</td>
+                                            <td class="negative">-1.53</td>
+                                            <td>13,41</td>
+                                            <td>13,74</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/COGN3">COGN3</a></td>
+                                            <td>4,23</td>
+                                            <td class="negative">-0.95</td>
+                                            <td>4,13</td>
+                                            <td>4,22</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/CPFE3">CPFE3</a></td>
+                                            <td>33,75</td>
+                                            <td class="negative">-0.74</td>
+                                            <td>33,36</td>
+                                            <td>33,86</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/CPLE6">CPLE6</a></td>
+                                            <td>67,17</td>
+                                            <td class="negative">-1.91</td>
+                                            <td>65,89</td>
+                                            <td>67,34</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/CRFB3">CRFB3</a></td>
+                                            <td>20,28</td>
+                                            <td class="negative">-0.64</td>
+                                            <td>19,98</td>
+                                            <td>20,27</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/CSNA3">CSNA3</a></td>
+                                            <td>33,02</td>
+                                            <td class="negative">-0.58</td>
+                                            <td>32,61</td>
+                                            <td>33,93</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/ENBR3">ENBR3</a></td>
+                                            <td>19,02</td>
+                                            <td class="negative">-0.53</td>
+                                            <td>18,87</td>
+                                            <td>19,07</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/ENEV3">ENEV3</a></td>
+                                            <td>72,73</td>
+                                            <td class="negative">-0.67</td>
+                                            <td>71,33</td>
+                                            <td>72,95</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/EZTC3">EZTC3</a></td>
+                                            <td>35,71</td>
+                                            <td class="negative">-0.03</td>
+                                            <td>35,29</td>
+                                            <td>35,88</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/GNDI3">GNDI3</a></td>
+                                            <td>96,48</td>
+                                            <td class="negative">-1.44</td>
+                                            <td>94,01</td>
+                                            <td>96,4</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/GOAU4">GOAU4</a></td>
+                                            <td>10,97</td>
+                                            <td class="negative">-0.18</td>
+                                            <td>10,81</td>
+                                            <td>11,03</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/HAPV3">HAPV3</a></td>
+                                            <td>17,62</td>
+                                            <td class="negative">-2.38</td>
+                                            <td>17,1</td>
+                                            <td>17,53</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/HYPE3">HYPE3</a></td>
+                                            <td>33,83</td>
+                                            <td class="negative">-0.03</td>
+                                            <td>33,4</td>
+                                            <td>33,92</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/ITSA4">ITSA4</a></td>
+                                            <td>10,64</td>
+                                            <td class="negative">-0.38</td>
+                                            <td>10,47</td>
+                                            <td>10,67</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/JHSF3">JHSF3</a></td>
+                                            <td>7,23</td>
+                                            <td class="negative">-0.41</td>
+                                            <td>7,06</td>
+                                            <td>7,22</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/KLBN11">KLBN11</a></td>
+                                            <td>28,26</td>
+                                            <td class="negative">-0.53</td>
+                                            <td>27,92</td>
+                                            <td>28,26</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/LCAM3">LCAM3</a></td>
+                                            <td>26,65</td>
+                                            <td class="negative">-0.11</td>
+                                            <td>26,2</td>
+                                            <td>26,66</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/MRFG3">MRFG3</a></td>
+                                            <td>14,67</td>
+                                            <td class="negative">-0.41</td>
+                                            <td>14,52</td>
+                                            <td>14,87</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/MRVE3">MRVE3</a></td>
+                                            <td>19,51</td>
+                                            <td class="negative">-1.08</td>
+                                            <td>19,17</td>
+                                            <td>19,46</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/NTCO3">NTCO3</a></td>
+                                            <td>53,76</td>
+                                            <td class="negative">-0.86</td>
+                                            <td>52,29</td>
+                                            <td>53,97</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/QUAL3">QUAL3</a></td>
+                                            <td>32,36</td>
+                                            <td class="negative">-0.43</td>
+                                            <td>32,04</td>
+                                            <td>32,54</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/RADL3">RADL3</a></td>
+                                            <td>25,98</td>
+                                            <td class="negative">-0.38</td>
+                                            <td>25,46</td>
+                                            <td>25,99</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/RENT3">RENT3</a></td>
+                                            <td>66,95</td>
+                                            <td class="negative">-0.07</td>
+                                            <td>65,69</td>
+                                            <td>67,61</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/SBSP3">SBSP3</a></td>
+                                            <td>42,14</td>
+                                            <td class="negative">-1.09</td>
+                                            <td>41,58</td>
+                                            <td>42,36</td>
+                                            <td>18:07 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/SULA11">SULA11</a></td>
+                                            <td>38,54</td>
+                                            <td class="negative">-0.96</td>
+                                            <td>37,82</td>
+                                            <td>38,42</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/TIMS3">TIMS3</a></td>
+                                            <td>14,56</td>
+                                            <td class="negative">-1.1</td>
+                                            <td>14,32</td>
+                                            <td>14,63</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/UGPA3">UGPA3</a></td>
+                                            <td>23,41</td>
+                                            <td class="negative">-0.04</td>
+                                            <td>23,15</td>
+                                            <td>23,65</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/VIVT3">VIVT3</a></td>
+                                            <td>48,95</td>
+                                            <td class="negative">-1.12</td>
+                                            <td>48,01</td>
+                                            <td>48,93</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/VVAR3">VVAR3</a></td>
+                                            <td>14,6</td>
+                                            <td class="negative">-0.82</td>
+                                            <td>14,28</td>
+                                            <td>14,62</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/WEGE3">WEGE3</a></td>
+                                            <td>86,99</td>
+                                            <td class="negative">-0.37</td>
+                                            <td>85,7</td>
+                                            <td>87,28</td>
+                                            <td>18:10 12/02</td>
+                                        </tr>
+                                                                                <tr>
+                                            <td><a href="https://www.infomoney.com.br/YDUQ3">YDUQ3</a></td>
+                                            <td>33,1</td>
+                                            <td class="negative">-1.03</td>
+                                            <td>32,35</td>
+                                            <td>33,72</td>
+                                            <td>18:08 12/02</td>
+                                        </tr>
+                                                                        </table>
+                            </div>
+                                                <div id="tags-news">
+                                <h2 class="section-title">Últimas de Ibovespa</h2>
+        <div class="items" id="infiniteScroll">
+            <div class="row py-3 item" id="post-1595651">
+            <div class="col-12 col-lg-4 img-container">
+            <a href="https://www.infomoney.com.br/mercados/ibovespa-fecha-estavel-e-encerra-semana-em-queda-de-07-com-cautela-antes-de-carnaval-dolar-cai-a-r-537/" title="Ibovespa fecha estável e encerra semana em queda de 0,7% com cautela antes de Carnaval; dólar cai a R$ 5,37">
+                <figure>
+                <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_105664235.jpg?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid wp-post-image jetpack-lazy-image" alt="ações índices gráfico bolsa mercados stocks alta" loading="lazy" title="Ibovespa fecha estável e encerra semana em queda de 0,7% com cautela antes de Carnaval; dólar cai a R$ 5,37" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_105664235.jpg?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_105664235.jpg?w=755&amp;quality=70&amp;strip=all 755w, https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_105664235.jpg?zoom=3&amp;resize=360%2C202&amp;quality=70&amp;strip=all 1080w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2019/11/shutterstock_105664235.jpg?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                </figure>
+            </a>
+        </div>
+            <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+        <span class="hl-hat">Fechamento</span>
+        <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/mercados/ibovespa-fecha-estavel-e-encerra-semana-em-queda-de-07-com-cautela-antes-de-carnaval-dolar-cai-a-r-537/" title="Ibovespa fecha estável e encerra semana em queda de 0,7% com cautela antes de Carnaval; dólar cai a R$ 5,37">Ibovespa fecha estável e encerra semana em queda de 0,7% com cautela antes de Carnaval; dólar cai a R$ 5,37</a></span>
+        <span class="hl-date"><span class="posted-diff">4 dias atrás</span></span>
+    </div>
+</div><div class="row py-3 item" id="post-1595329">
+            <div class="col-12 col-lg-4 img-container">
+            <a href="https://www.infomoney.com.br/mercados/ibovespa-cai-com-expectativa-por-informacoes-sobre-novo-auxilio-antes-do-carnaval-dolar-zera-ganhos/" title="Ibovespa zera perdas com virada de bancos em dia de IBC-Br e compra de vacinas; dólar cai a R$ 5,36">
+                <figure>
+                <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-home-broker-indices-mercado-bolsa.jpg?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid wp-post-image jetpack-lazy-image" alt="" loading="lazy" title="Ibovespa zera perdas com virada de bancos em dia de IBC-Br e compra de vacinas; dólar cai a R$ 5,36" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-home-broker-indices-mercado-bolsa.jpg?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-home-broker-indices-mercado-bolsa.jpg?w=755&amp;quality=70&amp;strip=all 755w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-home-broker-indices-mercado-bolsa.jpg?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                </figure>
+            </a>
+        </div>
+            <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+        <span class="hl-hat">Bolsa</span>
+        <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/mercados/ibovespa-cai-com-expectativa-por-informacoes-sobre-novo-auxilio-antes-do-carnaval-dolar-zera-ganhos/" title="Ibovespa zera perdas com virada de bancos em dia de IBC-Br e compra de vacinas; dólar cai a R$ 5,36">Ibovespa zera perdas com virada de bancos em dia de IBC-Br e compra de vacinas; dólar cai a R$ 5,36</a></span>
+        <span class="hl-date"><span class="posted-diff">4 dias atrás</span></span>
+    </div>
+</div><div class="row py-3 item" id="post-1595118">
+            <div class="col-12 col-lg-4 img-container">
+            <a href="https://www.infomoney.com.br/mercados/ibovespa-sobe-073-apos-3-quedas-mas-fecha-longe-das-maximas-com-fiscal-e-exterior-dolar-vai-a-r-538/" title="Ibovespa sobe 0,73% após 3 quedas, mas fecha longe das máximas com fiscal e exterior; dólar vai a R$ 5,38">
+                <figure>
+                <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2019/12/GettyImages-1027040192.jpg?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid wp-post-image jetpack-lazy-image" alt="mercado bolsa índices alta ações gráfico" loading="lazy" title="Ibovespa sobe 0,73% após 3 quedas, mas fecha longe das máximas com fiscal e exterior; dólar vai a R$ 5,38" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2019/12/GettyImages-1027040192.jpg?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2019/12/GettyImages-1027040192.jpg?w=755&amp;quality=70&amp;strip=all 755w, https://www.infomoney.com.br/wp-content/uploads/2019/12/GettyImages-1027040192.jpg?zoom=3&amp;resize=360%2C202&amp;quality=70&amp;strip=all 1080w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2019/12/GettyImages-1027040192.jpg?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                </figure>
+            </a>
+        </div>
+            <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+        <span class="hl-hat">Fechamento</span>
+        <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/mercados/ibovespa-sobe-073-apos-3-quedas-mas-fecha-longe-das-maximas-com-fiscal-e-exterior-dolar-vai-a-r-538/" title="Ibovespa sobe 0,73% após 3 quedas, mas fecha longe das máximas com fiscal e exterior; dólar vai a R$ 5,38">Ibovespa sobe 0,73% após 3 quedas, mas fecha longe das máximas com fiscal e exterior; dólar vai a R$ 5,38</a></span>
+        <span class="hl-date"><span class="posted-diff">5 dias atrás</span></span>
+    </div>
+</div><div class="row py-3 item" id="post-1594834">
+            <div class="col-12 col-lg-4 img-container">
+            <a href="https://www.infomoney.com.br/mercados/ibovespa-sobe-com-recuperacao-apos-3-quedas-e-segue-exterior-com-discurso-de-powell-dolar-cai-a-r-534/" title="Ibovespa diminui alta após fala de Bolsonaro sobre auxílio emergencial e com exterior; dólar sobe">
+                <figure>
+                <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-9.jpg?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid wp-post-image jetpack-lazy-image" alt="" loading="lazy" title="Ibovespa diminui alta após fala de Bolsonaro sobre auxílio emergencial e com exterior; dólar sobe" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-9.jpg?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-9.jpg?w=755&amp;quality=70&amp;strip=all 755w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-9.jpg?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                </figure>
+            </a>
+        </div>
+            <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+        <span class="hl-hat">Bolsa</span>
+        <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/mercados/ibovespa-sobe-com-recuperacao-apos-3-quedas-e-segue-exterior-com-discurso-de-powell-dolar-cai-a-r-534/" title="Ibovespa diminui alta após fala de Bolsonaro sobre auxílio emergencial e com exterior; dólar sobe">Ibovespa diminui alta após fala de Bolsonaro sobre auxílio emergencial e com exterior; dólar sobe</a></span>
+        <span class="hl-date"><span class="posted-diff">5 dias atrás</span></span>
+    </div>
+</div><div class="row py-3 item" id="post-1594652">
+            <div class="col-12 col-lg-4 img-container">
+            <a href="https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-com-risco-fiscal-e-baixa-de-bancos-ofuscando-recuperacao-da-petrobras-dolar-cai-a-r-537/" title="Ibovespa fecha em queda com risco fiscal e baixa de bancos ofuscando recuperação da Petrobras; dólar cai a R$ 5,37">
+                <figure>
+                <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-7.jpg?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid wp-post-image jetpack-lazy-image" alt="" loading="lazy" title="Ibovespa fecha em queda com risco fiscal e baixa de bancos ofuscando recuperação da Petrobras; dólar cai a R$ 5,37" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-7.jpg?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-7.jpg?w=755&amp;quality=70&amp;strip=all 755w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-7.jpg?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                </figure>
+            </a>
+        </div>
+            <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+        <span class="hl-hat">Fechamento</span>
+        <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-com-risco-fiscal-e-baixa-de-bancos-ofuscando-recuperacao-da-petrobras-dolar-cai-a-r-537/" title="Ibovespa fecha em queda com risco fiscal e baixa de bancos ofuscando recuperação da Petrobras; dólar cai a R$ 5,37">Ibovespa fecha em queda com risco fiscal e baixa de bancos ofuscando recuperação da Petrobras; dólar cai a R$ 5,37</a></span>
+        <span class="hl-date"><span class="posted-diff">6 dias atrás</span></span>
+    </div>
+</div><div class="row py-3 item" id="post-1594272">
+            <div class="col-12 col-lg-4 img-container">
+            <a href="https://www.infomoney.com.br/mercados/ibovespa-opera-entre-perdas-e-ganhos-com-expectativa-por-fala-de-powell-e-votacao-de-autonomia-do-bc-dolar-sobe-a-r-542/" title="Ibovespa cai puxado pelo setor financeiro em meio a notícias sobre possível novo auxílio emergencial; dólar recua a R$ 5,36">
+                <figure>
+                <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-12.jpg?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid wp-post-image jetpack-lazy-image" alt="" loading="lazy" title="Ibovespa cai puxado pelo setor financeiro em meio a notícias sobre possível novo auxílio emergencial; dólar recua a R$ 5,36" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-12.jpg?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-12.jpg?w=755&amp;quality=70&amp;strip=all 755w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-12.jpg?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                </figure>
+            </a>
+        </div>
+            <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+        <span class="hl-hat">Bolsa</span>
+        <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/mercados/ibovespa-opera-entre-perdas-e-ganhos-com-expectativa-por-fala-de-powell-e-votacao-de-autonomia-do-bc-dolar-sobe-a-r-542/" title="Ibovespa cai puxado pelo setor financeiro em meio a notícias sobre possível novo auxílio emergencial; dólar recua a R$ 5,36">Ibovespa cai puxado pelo setor financeiro em meio a notícias sobre possível novo auxílio emergencial; dólar recua a R$ 5,36</a></span>
+        <span class="hl-date"><span class="posted-diff">6 dias atrás</span></span>
+    </div>
+</div><div class="row py-3 item" id="post-1594031">
+            <div class="col-12 col-lg-4 img-container">
+            <a href="https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-de-02-e-tem-3o-pregao-negativo-consecutivo-em-meio-a-ruido-fiscal-dolar-sobe-a-r-538/" title="Ibovespa fecha em queda de 0,2% e tem 2º pregão negativo consecutivo em meio a ruído fiscal; dólar sobe a R$ 5,38">
+                <figure>
+                <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid wp-post-image jetpack-lazy-image" alt="B3 (Shutterstock)" loading="lazy" title="Ibovespa fecha em queda de 0,2% e tem 2º pregão negativo consecutivo em meio a ruído fiscal; dólar sobe a R$ 5,38" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?w=1700&amp;quality=70&amp;strip=all 1700w, https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?w=300&amp;quality=70&amp;strip=all 300w, https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?w=768&amp;quality=70&amp;strip=all 768w, https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?w=1280&amp;quality=70&amp;strip=all 1280w, https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?w=1536&amp;quality=70&amp;strip=all 1536w, https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?w=755&amp;quality=70&amp;strip=all 755w, https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?w=150&amp;quality=70&amp;strip=all 150w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2019/10/shutterstock_1461411428.png?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                </figure>
+            </a>
+        </div>
+            <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+        <span class="hl-hat">Fechamento</span>
+        <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-de-02-e-tem-3o-pregao-negativo-consecutivo-em-meio-a-ruido-fiscal-dolar-sobe-a-r-538/" title="Ibovespa fecha em queda de 0,2% e tem 2º pregão negativo consecutivo em meio a ruído fiscal; dólar sobe a R$ 5,38">Ibovespa fecha em queda de 0,2% e tem 2º pregão negativo consecutivo em meio a ruído fiscal; dólar sobe a R$ 5,38</a></span>
+        <span class="hl-date"><span class="posted-diff">7 dias atrás</span></span>
+    </div>
+</div><div class="row py-3 item" id="post-1593713">
+            <div class="col-12 col-lg-4 img-container">
+            <a href="https://www.infomoney.com.br/stock-pickers/eletrobras-vale-a-pena-mesmo-se-privatizacao-nao-sair/" title="Eletrobras vale a pena mesmo se privatização não sair?">
+                <figure>
+                <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2019/06/eletrobras-2.jpg?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid wp-post-image jetpack-lazy-image" alt="" loading="lazy" title="Eletrobras vale a pena mesmo se privatização não sair?" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2019/06/eletrobras-2.jpg?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2019/06/eletrobras-2.jpg?w=755&amp;quality=70&amp;strip=all 755w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2019/06/eletrobras-2.jpg?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                </figure>
+            </a>
+        </div>
+            <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+        <span class="hl-hat">Stock Pills</span>
+        <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/stock-pickers/eletrobras-vale-a-pena-mesmo-se-privatizacao-nao-sair/" title="Eletrobras vale a pena mesmo se privatização não sair?">Eletrobras vale a pena mesmo se privatização não sair?</a></span>
+        <span class="hl-date"><span class="posted-diff">7 dias atrás</span></span>
+    </div>
+</div><div class="row py-3 item" id="post-1593705">
+            <div class="col-12 col-lg-4 img-container">
+            <a href="https://www.infomoney.com.br/mercados/ibovespa-opera-entre-perdas-e-ganhos-em-dia-de-atencao-a-auxilio-autonomia-do-bc-e-indicadores-dolar-sobe-a-r-541/" title="Ibovespa zera perdas com forte alta de ações de bancos; dólar sobe a R$ 5,38">
+                <figure>
+                <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2019/09/acoes-1.jpg?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid wp-post-image jetpack-lazy-image" alt="" loading="lazy" title="Ibovespa zera perdas com forte alta de ações de bancos; dólar sobe a R$ 5,38" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2019/09/acoes-1.jpg?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2019/09/acoes-1.jpg?w=755&amp;quality=70&amp;strip=all 755w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2019/09/acoes-1.jpg?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                </figure>
+            </a>
+        </div>
+            <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+        <span class="hl-hat">Bolsa</span>
+        <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/mercados/ibovespa-opera-entre-perdas-e-ganhos-em-dia-de-atencao-a-auxilio-autonomia-do-bc-e-indicadores-dolar-sobe-a-r-541/" title="Ibovespa zera perdas com forte alta de ações de bancos; dólar sobe a R$ 5,38">Ibovespa zera perdas com forte alta de ações de bancos; dólar sobe a R$ 5,38</a></span>
+        <span class="hl-date"><span class="posted-diff">7 dias atrás</span></span>
+    </div>
+</div><div class="row py-3 item" id="post-1593486">
+            <div class="col-12 col-lg-4 img-container">
+            <a href="https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-pressionado-por-politica-e-petrobras-dolar-cai-a-r-537/" title="Ibovespa fecha em queda pressionado por política e Petrobras; dólar cai a R$ 5,37">
+                <figure>
+                <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2020/02/austin-distel-EMPZ7yRZoGw-unsplash.jpg?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid wp-post-image jetpack-lazy-image" alt="" loading="lazy" title="Ibovespa fecha em queda pressionado por política e Petrobras; dólar cai a R$ 5,37" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2020/02/austin-distel-EMPZ7yRZoGw-unsplash.jpg?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2020/02/austin-distel-EMPZ7yRZoGw-unsplash.jpg?w=755&amp;quality=70&amp;strip=all 755w, https://www.infomoney.com.br/wp-content/uploads/2020/02/austin-distel-EMPZ7yRZoGw-unsplash.jpg?zoom=3&amp;resize=360%2C202&amp;quality=70&amp;strip=all 1080w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2020/02/austin-distel-EMPZ7yRZoGw-unsplash.jpg?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                </figure>
+            </a>
+        </div>
+            <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+        <span class="hl-hat">Fechamento</span>
+        <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/mercados/ibovespa-fecha-em-queda-pressionado-por-politica-e-petrobras-dolar-cai-a-r-537/" title="Ibovespa fecha em queda pressionado por política e Petrobras; dólar cai a R$ 5,37">Ibovespa fecha em queda pressionado por política e Petrobras; dólar cai a R$ 5,37</a></span>
+        <span class="hl-date"><span class="posted-diff">1 semana atrás</span></span>
+    </div>
+</div>            </div>
+            <a href="https://www.infomoney.com.br/tudo-sobre/ibovespa/" class="href-title">
+                <span>Tudo sobre</span> 
+                <strong>Ibovespa</strong>
+                <i class="material-icons">arrow_forward</i>
+            </a>
+                                </div>
+            </div>
+        </div>
+        <div class="col-md-4 sidebar p-0 d-flex justify-content-end" >
+            <div class="quotes-sidebar">
+                <div class="pb-5" >
+                    <!-- Publicidade --> 
+                                                  <div class="
+         RETANGULO_AF container-ads" >
+            <div id="RETANGULO_AF" class="RETANGULO_AF">
+                <script>googletag.cmd.push(function() { 
+                    googletag.display(decodeURIComponent( 'RETANGULO_AF' )); });
+                </script>
+            </div>
+        </div>                                     </div>
+                
+                
+               <!-- Conteúdos relacionados --> 
+               <div id="related-posts">
+                        <div class="sidebar">
+        <div class="row py-3 item">
+                    <div class="col-12 col-lg-4 img-container">
+                <a href="https://www.infomoney.com.br/mercados/ibovespa-fecha-em-alta-de-05-com-virada-de-wall-street-no-fim-do-pregao-e-bons-sinais-de-leilao-do-tesouro-dolar-cai-a-r-531/" title="Ibovespa fecha em alta de 0,5% com virada de Wall Street no fim do pregão e bons sinais de leilão do Tesouro; dólar cai a R$ 5,31">
+                    <figure>
+                    <img width="360" height="202" src="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-12.jpg?resize=360%2C202&amp;quality=70&amp;strip=all" class="img-fluid jetpack-lazy-image" alt="" loading="lazy" title="Ibovespa fecha em alta de 0,5% com virada de Wall Street no fim do pregão e bons sinais de leilão do Tesouro; dólar cai a R$ 5,31" data-lazy-srcset="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-12.jpg?w=360&amp;quality=70&amp;strip=all 360w, https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-12.jpg?w=755&amp;quality=70&amp;strip=all 755w" data-lazy-sizes="(max-width:360px) 145px, (max-width:425px) 220px, 500px" data-lazy-src="https://www.infomoney.com.br/wp-content/uploads/2019/06/acoes-indices-grafico-alta-bolsa-mercado-12.jpg?resize=360%2C202&amp;quality=70&amp;strip=all&amp;is-pending-load=1" srcset="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />                    </figure>
+                </a>
+            </div>
+                    <div class="col-12 col-lg-8 pt-3 pt-lg-0 d-flex justify-content-center flex-column">
+                            <span class="hl-hat">Fechamento</span>
+                            <span class="hl-title hl-title-2"><a href="https://www.infomoney.com.br/mercados/ibovespa-fecha-em-alta-de-05-com-virada-de-wall-street-no-fim-do-pregao-e-bons-sinais-de-leilao-do-tesouro-dolar-cai-a-r-531/" title="Ibovespa fecha em alta de 0,5% com virada de Wall Street no fim do pregão e bons sinais de leilão do Tesouro; dólar cai a R$ 5,31">Ibovespa fecha em alta de 0,5% com virada de Wall Street no fim do pregão e bons sinais de leilão do Tesouro; dólar cai a R$ 5,31</a></span>
+              
+                <span class="hl-date"><span class="posted-diff">3 meses atrás</span></span>
+                        </div>
+    </div>
+        </div>
+                    </div>
+
+            </div>
+            
+        </div>
+
+    </div>
+
+</div>
+
+
+</div>
+    <div>
+        <div class="container row border-t py-5 mt-5">
+                        <div class="col-12 col-lg-8">
+                                    <div class="OUTBRAIN" data-src="https://www.infomoney.com.br/cotacoes/ibovespa/" data-widget-id="AR_8" data-ob-template="BR_infomoney"></div>
+                            </div>
+            
+            
+                                    <div class="
+         VERTICAL_BF container-ads" >
+            <div id="VERTICAL_BF" class="VERTICAL_BF">
+                <script>googletag.cmd.push(function() { 
+                    googletag.display(decodeURIComponent( 'VERTICAL_BF' )); });
+                </script>
+            </div>
+        </div>                        
+        </div>
+    </div>
+    <footer class="footer mt-5" id="footer">
+    <div class="container">
+        <div class="row footer-top pb-5">
+            <div class="col-md-12 col-lg-12 footer-map">
+                <ul id="menu-rodape" class="list-unstyled"><li id="menu-item-1331960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1331960"><a href="https://www.infomoney.com.br/guias/">Guias InfoMoney</a>
+<ul class="list-unstyled">
+	<li id="menu-item-1331961" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331961"><a href="https://www.infomoney.com.br/educacao/guias/guias-de-acoes/">Ações</a></li>
+	<li id="menu-item-1372047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1372047"><a href="https://www.infomoney.com.br/guias/debentures/">Debêntures</a></li>
+	<li id="menu-item-1468677" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1468677"><a href="https://www.infomoney.com.br/guias/derivativos/">Derivativos</a></li>
+	<li id="menu-item-1566331" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1566331"><a href="https://www.infomoney.com.br/guias/adrs-american-depositary-receipt/">ADRs</a></li>
+	<li id="menu-item-1475365" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1475365"><a href="https://www.infomoney.com.br/guias/bdr-brazilian-depositary-receipts/">BDRs</a></li>
+	<li id="menu-item-1444626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1444626"><a href="https://www.infomoney.com.br/guias/etf-exchange-traded-fund/">ETFs</a></li>
+	<li id="menu-item-1331964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331964"><a href="https://www.infomoney.com.br/guias/tesouro-direto/">Tesouro Direto</a></li>
+	<li id="menu-item-1346186" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1346186"><a href="https://www.infomoney.com.br/vamosinvestir/aplicacoes/investir-em-renda-fixa/">Renda Fixa</a></li>
+	<li id="menu-item-1331962" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331962"><a href="https://www.infomoney.com.br/guias/fundos-de-investimento/">Fundos de Investimento</a></li>
+	<li id="menu-item-1359925" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1359925"><a href="https://www.infomoney.com.br/guias/fundos-multimercados/">Fundos Multimercados</a></li>
+	<li id="menu-item-1331963" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331963"><a href="https://www.infomoney.com.br/guias/fundos-cambiais/">Fundos Cambiais</a></li>
+	<li id="menu-item-1331990" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331990"><a href="https://www.infomoney.com.br/guias/fundos-de-acoes/">Fundos de Ações</a></li>
+	<li id="menu-item-1331966" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331966"><a href="https://www.infomoney.com.br/guias/fundos-renda-fixa/">Fundos de Renda Fixa</a></li>
+	<li id="menu-item-1432551" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1432551"><a href="https://www.infomoney.com.br/guias/fundos-di/">Fundos DI</a></li>
+	<li id="menu-item-1331965" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331965"><a href="https://www.infomoney.com.br/vamosinvestir/aplicacoes/fundos-imobiliarios/">Fundos Imobiliários</a></li>
+	<li id="menu-item-1469857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1469857"><a href="https://www.infomoney.com.br/guias/ipo/">IPO</a></li>
+	<li id="menu-item-1487487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1487487"><a href="https://www.infomoney.com.br/guias/mercado-de-opcoes/">Opções</a></li>
+	<li id="menu-item-1331987" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331987"><a href="https://www.infomoney.com.br/guias/proventos/">Proventos e Dividendos</a></li>
+	<li id="menu-item-1348967" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1348967"><a href="https://www.infomoney.com.br/guias/planos-de-previdencia/">Planos de Previdência</a></li>
+	<li id="menu-item-1480326" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1480326"><a href="https://www.infomoney.com.br/guias/criptomoedas/">Criptomoedas</a></li>
+	<li id="menu-item-1398364" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1398364"><a href="https://www.infomoney.com.br/guias/lci-lca/">LCI e LCA</a></li>
+	<li id="menu-item-1372050" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1372050"><a href="https://www.infomoney.com.br/guias/poupanca/">Poupança</a></li>
+	<li id="menu-item-1345977" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1345977"><a href="https://www.infomoney.com.br/guias/cdb/">CDBs</a></li>
+	<li id="menu-item-1401743" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1401743"><a href="https://www.infomoney.com.br/guias/coe/">COE</a></li>
+	<li id="menu-item-1331970" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1331970"><a href="https://www.infomoney.com.br/onde-investir/como-participar-de-um-ipo/">IPOs</a></li>
+	<li id="menu-item-1408480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1408480"><a href="https://www.infomoney.com.br/guias/imposto-de-renda/">Imposto de Renda</a></li>
+	<li id="menu-item-1489262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1489262"><a href="https://www.infomoney.com.br/guias/taxa-referencial-tr/">Taxa referencial</a></li>
+</ul>
+</li>
+<li id="menu-item-601655" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-601655"><a href="https://www.infomoney.com.br/ultimas-noticias/">Notícias</a>
+<ul class="list-unstyled">
+	<li id="menu-item-601656" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601656"><a href="https://www.infomoney.com.br/mercados/">Mercados</a></li>
+	<li id="menu-item-601657" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601657"><a href="https://www.infomoney.com.br/onde-investir/">Onde investir</a></li>
+	<li id="menu-item-1441688" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1441688"><a href="https://www.infomoney.com.br/stock-pickers/">Stock Pickers</a></li>
+	<li id="menu-item-601658" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601658"><a href="https://www.infomoney.com.br/minhas-financas/">Minhas Finanças</a></li>
+	<li id="menu-item-601659" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601659"><a href="https://www.infomoney.com.br/politica/">Política</a></li>
+	<li id="menu-item-601660" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601660"><a href="https://www.infomoney.com.br/carreira/">Carreira</a></li>
+	<li id="menu-item-601661" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601661"><a href="https://www.infomoney.com.br/consumo/">Consumo</a></li>
+	<li id="menu-item-641973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-641973"><a href="https://www.infomoney.com.br/negocios/">Negócios</a></li>
+	<li id="menu-item-1325310" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1325310"><a href="https://www.infomoney.com.br/economia/">Economia</a></li>
+</ul>
+</li>
+<li id="menu-item-1318881" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-1318881"><a href="https://www.infomoney.com.br/cotacoes/">Cotações</a>
+<ul class="list-unstyled">
+	<li id="menu-item-1318882" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-1318882"><a href="https://www.infomoney.com.br/cotacoes/ibovespa/" aria-current="page">Ibovespa</a></li>
+	<li id="menu-item-641809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-641809"><a href="https://www.infomoney.com.br/mercados/ferramentas/altas-e-baixas">Altas e Baixas</a></li>
+	<li id="menu-item-1318883" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1318883"><a href="https://www.infomoney.com.br/ferramentas/cambio/">Dólar e câmbio</a></li>
+	<li id="menu-item-1318885" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1318885"><a href="https://www.infomoney.com.br/ferramentas/criptomoedas/">Criptomoedas</a></li>
+	<li id="menu-item-1318888" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1318888"><a href="https://www.infomoney.com.br/ferramentas/juros-futuros-di/">Juros Futuros</a></li>
+	<li id="menu-item-1318889" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1318889"><a href="https://www.infomoney.com.br/ferramentas/mini-contratos/">Minicontratos</a></li>
+	<li id="menu-item-1318887" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1318887"><a href="https://www.infomoney.com.br/ferramentas/cotacoes-opcoes-de-acoes/">Opções de Ações</a></li>
+	<li id="menu-item-1428111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1428111"><a href="https://www.infomoney.com.br/ferramentas/inflacao/">Índices de Inflação</a></li>
+</ul>
+</li>
+<li id="menu-item-641805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-641805"><a href="https://www.infomoney.com.br">Ferramentas</a>
+<ul class="list-unstyled">
+	<li id="menu-item-1428109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1428109"><a href="https://t.me/infomoney_noticias">Telegram</a></li>
+	<li id="menu-item-1409969" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1409969"><a href="https://www.infomoney.com.br/mercados/receba-a-nova-newsletter-do-infomoney/">Newsletter</a></li>
+	<li id="menu-item-1428108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1428108"><a href="https://www.infomoney.com.br/ferramentas/comparador-de-fundos/">Comparador de Fundos</a></li>
+	<li id="menu-item-1492847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1492847"><a href="https://www.infomoney.com.br/ferramentas/comparador-de-fiis/">Comparador de FIIs</a></li>
+	<li id="menu-item-1318892" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1318892"><a href="https://www.infomoney.com.br/ferramentas/carteira-de-acompanhamento/">Carteira de Acompanhamento</a></li>
+	<li id="menu-item-1428107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1428107"><a href="https://www.infomoney.com.br/ferramentas/fatos-relevantes/">Fatos Relevantes</a></li>
+	<li id="menu-item-641880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-641880"><a href="https://www.infomoney.com.br/ferramentas/comparador-renda-fixa/">Comparador de Renda Fixa</a></li>
+	<li id="menu-item-641818" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-641818"><a href="https://www.infomoney.com.br/mercados/empresas-bovespa">Empresas B3</a></li>
+	<li id="menu-item-641868" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-641868"><a href="https://www.infomoney.com.br/mercados/agendas">Agendas</a></li>
+</ul>
+</li>
+<li id="menu-item-1318891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-1318891"><a href="https://cursos.infomoney.com.br/vitrine">Educação</a>
+<ul class="list-unstyled">
+	<li id="menu-item-601647" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601647"><a href="https://cursos.infomoney.com.br/vitrine">Cursos</a></li>
+	<li id="menu-item-601650" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601650"><a href="https://lp.infomoney.com.br/ebooks-gratuitos-investimentos">Ebooks gratuitos</a></li>
+	<li id="menu-item-601654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601654"><a href="https://www.infomoney.com.br/planilhas-financeiras-gratuitas/">Planilhas gratuitas</a></li>
+	<li id="menu-item-601648" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-601648"><a href="https://www.infomoney.com.br/research-relatorios">Relatórios</a></li>
+</ul>
+</li>
+</ul>            </div>
+        </div>
+        
+        <div class="row footer-menu-extra">
+            <div class="col">
+                <a href="https://www.infomoney.com.br/" class="logo-footer"><img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/logo.svg" alt="Infomoney"></a>
+                <div class="menu-institucional-container"><ul id="menu-institucional" class="menu"><li id="menu-item-138" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-138"><a href="https://auth.infomoney.com.br/authentication/signin">Cadastre-se</a></li>
+<li id="menu-item-139" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-139"><a href="https://ww3.infomoney.com.br/mediakit">Anuncie / Licencie</a></li>
+<li id="menu-item-1420106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-1420106"><a href="https://www.infomoney.com.br/politica-de-privacidade/">Política de Privacidade</a></li>
+<li id="menu-item-1440450" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1440450"><a href="https://www.infomoney.com.br/politica-de-cookies/">Política de Cookies</a></li>
+<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://www.infomoney.com.br/fale-conosco/">Fale conosco</a></li>
+</ul></div>            </div>
+        </div>
+        <div class="row footer-menu-extra">
+            <div class="col">
+                <div class="footer-social mb-4"> 
+                    
+    <a href="https://www.facebook.com/InfoMoney" target="_blank"><i class="fab fa-facebook"></i></a>
+    <a href="https://twitter.com/infomoney" target="_blank"><i class="fab fa-twitter"></i></a>
+    <a href="https://www.youtube.com/user/tvinfomoney?sub_confirmation=1" target="_blank"><i class="fab fa-youtube"></i></a>
+      
+        <a href="https://t.me/infomoney_noticias" target="_blank"><i class="fab fa-telegram-plane"></i></a>
+    <a href="https://www.linkedin.com/company/infomoney/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <a href="https://www.instagram.com/infomoney/" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.infomoney.com.br/podcasts/" target="_blank"><i class="fab fa-soundcloud"></i></a>
+                </div>
+
+                <!-- APP -->
+                <div class="down-app">
+                    <a href="https://play.google.com/store/apps/details?id=com.cedrotech.infomoney"><img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/google-play-badge.png" width="150" alt="Infomoney - Google Play"></a>
+                    <a href="https://itunes.apple.com/br/app/infomoney/id1026842272?mt=8"><img src="https://www.infomoney.com.br/wp-content/themes/infomoney/assets/img/app-store-badge.png" width="140" alt="Infomoney - Apple Store"></a>
+                </div>
+
+            </div>
+        </div>
+        <div class="footer-disclaimer">
+            <div class="text-justify col-lg-8">
+                <p>&copy; 2000-2021 InfoMoney. Todos os direitos reservados.</p>
+
+                <p>O InfoMoney preza a qualidade da informação e atesta a apuração de todo o conteúdo produzido por sua equipe, ressaltando, no entanto, que não faz qualquer tipo de recomendação de investimento, não se responsabilizando por perdas, danos (diretos, indiretos e incidentais), custos e lucros cessantes.</p>
+
+                <p><b>IMPORTANTE:</b> O portal www.infomoney.com.br (o "Portal") é de propriedade da Infostocks Informações e Sistemas Ltda. (CNPJ/MF nº 03.082.929/0001-03) ("Infostocks"), sociedade controlada, indiretamente, pela XP Controle Participações S/A (CNPJ/MF nº 09.163.677/0001-15), sociedade holding que controla as empresas do XP Inc. O XP Inc tem em sua composição empresas que exercem atividades de: corretoras de valoresmobiliários, banco, seguradora, corretora de seguros, análise de investimentos de valores mobiliários, gestoras de recursos de terceiros. Apesar de as Sociedades XP estarem sob controle comum, os executivos responsáveis pela Infostocks são totalmente independentes e as notícias, matérias e opiniões veiculadas no Portal não são, sob qualquer aspecto, direcionadas e/ou influenciadas por relatórios de análise produzidos por áreas técnicas das empresas do XP Inc, nem por decisões comerciais e de negócio de tais sociedades, sendo produzidos de acordo com o juízo de valor e as convicções próprias da equipe interna da Infostocks.
+                
+                </p>
+
+            </div>
+        </div>
+    </div>
+</footer><!-- #page -->
+
+
+<script type='text/javascript' src='https://www.infomoney.com.br/wp-content/mu-plugins/jetpack-9.4/_inc/build/photon/photon.min.js?m=1611697627g'></script>
+<script src='//cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js?ver=1.7' id='infomoney-datatables-js-js'></script>
+<script type='text/javascript' src='https://www.infomoney.com.br/wp-content/themes/infomoney/js/single-cotacoes-min.js?m=1610367385g'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.7/js/select2.min.js?ver=1.7' id='infomoney-select2-js-js'></script>
+<script id='infomoney-single-cotacoes-components-js-js-extra'>
+var singleCotacoesComponentsData = {"quotes_archive_nonce":"7fe568296f","carteira_acompanhamento_table_nonce":"7350f6cb72","ajax_url":"https:\/\/www.infomoney.com.br\/wp-admin\/admin-ajax.php","home_url":"https:\/\/www.infomoney.com.br","auth_url":"https:\/\/auth.infomoney.com.br\/authentication\/signin?response_type=code&client_id=aaeb000318befb9a2fe0f400&redirect_uri=http:\/\/ww3.infomoney.com.br\/pages\/authentication\/callback&origin=paywall&redirect_to=https:\/\/www.infomoney.com.br%2Flogin-infomoney%2F"};
+</script>
+<script id='infomoney_sw_register_script-js-extra'>
+var sw_register_vars = {"home":"https:\/\/www.infomoney.com.br"};
+</script>
+<script id='jetpack-lazy-images-js-extra'>
+var jetpackLazyImagesL10n = {"loading_warning":"Images are still loading. Please cancel your print and try again."};
+</script>
+<script type='text/javascript' src='https://www.infomoney.com.br/_static/??-eJytkMGOwjAMRH+I1IBWiB4Q35JmTXFJ7Ch2qbpfv2G1IIQqTtysGc8byzBlF4QN2cDOmFCB+CRJGGcYFJS4j1hXzAdBrUPK1WNTl4ibQVfwjkAcIMexJ35SnU5/6MkV7EkNyysnje6eGtCyDxfXNl9wRf6WAn40Sd6MwsON/md2lHxf27WEG54qqigGI2HpFMsVi8sS5xPF2Cwc/4nSJ2mpYunDkTqFTsTUis//qWM6bHab7bZt2/16+AUvYJ4a'></script>
+<script type="module" src='https://cdn.xpi.com.br/soma/somahtml/soma-html/soma-html.esm.js?ver=1.7' id='infomoney-soma-html-esm-module-js'></script>
+<script src='https://cdn.xpi.com.br/soma/somahtml/soma-html/soma-html.js?ver=1.7' id='infomoney-soma-html-js'></script>
+<script type="module" src='https://cdn.xpi.com.br/cookies-policy/cookiespolicy/cookiespolicy.esm.js?ver=1.7' id='infomoney-cookies-policy-esm-module-js'></script>
+<script src='https://cdn.xpi.com.br/cookies-policy/cookiespolicy/cookiespolicy.js?ver=1.7' id='infomoney-cookies-policy-js'></script>
+<script type='text/javascript' src='https://www.infomoney.com.br/wp-includes/js/wp-embed.min.js?m=1612389486g'></script>
+<script async src='https://widgets.outbrain.com/outbrain.js?ver=1.1' id='infomoney-outbrain-async-js'></script>
+<script src='https://stats.wp.com/e-202107.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.4',blog:'161989173',post:'719905',tz:'-3',srv:'www.infomoney.com.br'} ]);
+	_stq.push([ 'clickTrackerInit', '161989173', '719905' ]);
+</script>
+
+<!-- /8003922/OutOfPage -->
+<div id="OutOfPage" style="margin:0 auto"><script>googletag.cmd.push(function() { googletag.display('OutOfPage'); });</script></div>
+
+</body>
+
+</html>
